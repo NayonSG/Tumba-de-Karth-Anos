@@ -43,7 +43,7 @@ function selectOption(option) {
 const textNodes = [
     {
         id: 1,
-        text: 'Você é um aventureiro e, em uma de suas viagens, ouviu rumores de uma tumba perdida onde uma vez residiu um antigo e poderoso feiticeiro. Ao ouvir a história, você fica curioso, mas podera sobre o que fazer:',
+        text: 'Você é um aventureiro e, em uma de suas viagens, ouviu rumores de uma tumba perdida onde uma vez residiu um antigo e poderoso feiticeiro. Ao ouvir a história, você fica curioso, mas pondera sobre o que fazer:',
         options:[
             {
                 text: 'Decide partir sozinho para explorar a tumba',
