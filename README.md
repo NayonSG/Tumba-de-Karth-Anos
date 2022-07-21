@@ -8,7 +8,7 @@ Espero que aproveitem!
 
 Este é um projeto simples, desenvolvido e Codado por mim utilizando o VSC para aprender um pouco e desenvolver um Portfolio.
 
-Agradecimento especial ao Raphael Fernandes (@raphaelfp) pelo teste beta do código.
+Agradecimento especial ao Raphael Fernandes (@raphaelfp) e ao Vinícius Kodama (k0dama) pelo teste beta do código.
 
 
 Welcome to the Tomb of Karth'Anos!
@@ -19,4 +19,4 @@ I hope y'all enjoy it!
 
 This is a simple project I developed and coded using VSC, in order to improve in coding and build a Portfolio.
 
-Special thanks to Raphael Fernandes (@raphaelfp) for beta testing this code.
+Special thanks to Raphael Fernandes (@raphaelfp) and Vinícius Kodama (@k0dama) for beta testing this code.
