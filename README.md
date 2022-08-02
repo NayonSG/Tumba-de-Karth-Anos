@@ -20,3 +20,9 @@ I hope y'all enjoy it!
 This is a simple project I developed and coded using VSC, in order to improve in coding and build a Portfolio.
 
 Special thanks to Raphael Fernandes (@raphaelfp) and Vinícius Kodama (@k0dama) for beta testing this code.
+
+
+Você pode acessar o jogo através do link abaixo:
+You can access the game in the link below:
+
+https://nayonsg.github.io/tumba-de-karthanos/
